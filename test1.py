@@ -4,4 +4,5 @@ Version 1
 """
 
 a = 8
-print(a)
+b = 4
+print(a, b, a + b)
